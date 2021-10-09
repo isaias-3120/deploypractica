@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/deploypractica/static/css/main.d214bee3.chunk.css",
+    "main.js": "/deploypractica/static/js/main.e703eeb8.chunk.js",
+    "main.js.map": "/deploypractica/static/js/main.e703eeb8.chunk.js.map",
+    "runtime-main.js": "/deploypractica/static/js/runtime-main.4ec9fc8c.js",
+    "runtime-main.js.map": "/deploypractica/static/js/runtime-main.4ec9fc8c.js.map",
+    "static/js/2.542b5442.chunk.js": "/deploypractica/static/js/2.542b5442.chunk.js",
+    "static/js/2.542b5442.chunk.js.map": "/deploypractica/static/js/2.542b5442.chunk.js.map",
+    "static/js/3.8a58a344.chunk.js": "/deploypractica/static/js/3.8a58a344.chunk.js",
+    "static/js/3.8a58a344.chunk.js.map": "/deploypractica/static/js/3.8a58a344.chunk.js.map",
+    "index.html": "/deploypractica/index.html",
+    "static/css/main.d214bee3.chunk.css.map": "/deploypractica/static/css/main.d214bee3.chunk.css.map",
+    "static/js/2.542b5442.chunk.js.LICENSE.txt": "/deploypractica/static/js/2.542b5442.chunk.js.LICENSE.txt",
+    "static/media/logotec.da78bd05.jpg": "/deploypractica/static/media/logotec.da78bd05.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ec9fc8c.js",
+    "static/js/2.542b5442.chunk.js",
+    "static/css/main.d214bee3.chunk.css",
+    "static/js/main.e703eeb8.chunk.js"
+  ]
+}
